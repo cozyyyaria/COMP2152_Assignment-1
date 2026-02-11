@@ -36,6 +36,8 @@ Both `assignment1_studentID.py` and `assignment1_studentID.ipynb` are provided a
 
 Before working on the assignment, rename both files by replacing `studentID` with your actual student ID.
 
+
+
 ## .gitignore
 
 The `.gitignore` is configured to keep the repo clean across different development environments. It covers:
@@ -46,3 +48,7 @@ The `.gitignore` is configured to keep the repo clean across different developme
 - **Editors** — VS Code, PyCharm/JetBrains, Neovim/Vim, Sublime Text, Emacs
 - **Secrets** — `.env`, `.pem`, `.key`, and credential files
 - **Archives** — `.zip`, `.tar.gz`, `.rar`
+
+
+Completed by: Ariana Cruz
+StudentID: 101346000
