@@ -52,3 +52,5 @@ The `.gitignore` is configured to keep the repo clean across different developme
 
 Completed by: Ariana Cruz
 StudentID: 101346000
+
+Final commit for assignment screenshot
